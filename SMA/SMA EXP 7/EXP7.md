@@ -3,7 +3,7 @@
 ## 📌 Aim
 The objective of this project is to develop a **real-time social media dashboard and reporting tool** that collects, processes, and visualizes social media data. The tool will enable businesses and individuals to track engagement metrics, monitor brand sentiment, and gain actionable insights to optimize their online presence.
 
-## 📖 Story
+## 📖 Theory
 In today's digital world, social media plays a crucial role in brand communication, marketing, and audience engagement. Businesses rely heavily on data-driven insights to make informed decisions. However, traditional analytics tools often suffer from delays and lack of real-time insights.
 
 Our project aims to bridge this gap by developing a **real-time social media dashboard** that aggregates data from platforms like Twitter, Facebook, LinkedIn, and Instagram. By leveraging APIs, data streaming technologies, and interactive visualization tools, the dashboard will offer live tracking of:
